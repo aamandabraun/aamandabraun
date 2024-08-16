@@ -1,9 +1,6 @@
 
 # Oie, eu sou Amanda ✨
-Estou em transição de carreira para a área de tecnologia, descobrindo formas novas de inovação e ainda me encaixando dentre as oportunidades. Estou compartilhando tudo em meu [Linkedin](https://www.linkedin.com/in/aamandabraun/), ou pode ver meus projetos na íntegra por aqui 😊.
-```
-Neste momento estou cursando o Desenvolvimento Web 2.0 ministrado pelo Jaime Damasceno, disponibilizado pela Udemy. 
-```
+Estou em transição de carreira para a área de tecnologia, descobrindo formas novas de inovação e ainda me encaixando dentre as oportunidades. Neste momento estou cursando o Desenvolvimento Web Completo ministrado pelo Jaime Damasceno, disponibilizado pela Udemy. 
 
 ## Foco nos estudos 🔋
 - Faço faculdade de Comércio Exterior, que coincide com minha área de atuação atual
