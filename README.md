@@ -16,4 +16,4 @@ Após 5 anos de experiência na área comercial e ter trabalhado em uma empresa 
 ## Me siga 😊
 
 | [![Li](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aamandabraun/) | [![Li](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/aamandabraun/) |
-| ------- |-----|-----|
+| ------- |----- |
