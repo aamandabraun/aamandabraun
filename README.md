@@ -3,9 +3,9 @@
 Estou em transição de carreira para a área de tecnologia, descobrindo formas novas de inovação e ainda me encaixando dentre as oportunidades. No momento sou graduanda de Análise e Desenvolvimento de Sistemas. 
 
 ### Foco nos estudos 🔋
-- Faço faculdade de Comércio Exterior, que coincide com minha área de atuação atual, além da faculdade de ADS que me permite entrar na área que quero ficar
+- Sou formada na faculdade de Comércio Exterior, que coincide com minha área de atuação atual, além da faculdade de ADS que me permite entrar na área que quero ficar
 - Com o CNA Idiomas conquistei inglês avançado
-- Através do Duolingo estudo francês como terceira língua, visto a globalização de hoje e meus planos futuros
+- Através da Udemy realizado projetos e testes voltados ao Desenvolvimento Web.
 
 ### Planejamento e vibrações 🎯
 Após 7 anos de experiência na área comercial e ter trabalhado em uma empresa voltada ao Software e a Inovação como vendedora, me dedico em migrar minha carreira iniciando pelo HTML, CSS e JavaScript e, posteriormente, focando em desenvolvimento front-end.
