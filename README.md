@@ -8,10 +8,10 @@ Estou em transição de carreira para a área de tecnologia, descobrindo formas 
 - Através da Udemy realizado projetos e testes voltados ao Desenvolvimento Web.
 
 ### Planejamento e vibrações 🎯
-Após 7 anos de experiência na área comercial e ter trabalhado em uma empresa voltada ao Software e a Inovação como vendedora, me dedico em migrar minha carreira iniciando pelo HTML, CSS e JavaScript e, posteriormente, focando em desenvolvimento front-end.
+Após 6 anos de experiência na área comercial e ter trabalhado em uma empresa voltada ao Software e a Inovação como vendedora, me dedico em migrar minha carreira iniciando pelo HTML, CSS e JavaScript e, posteriormente, focando em desenvolvimento front-end.
 
 ### Hoje 🪄
-`Sou Jaraguaense, tenho 22 anos e trabalho como designer imobiliária. Realizo o tratamento de imagens e estudo de cores em casas já construídas, prédios em construção, sonhos. Sou também vendedora há 07 anos na área da construção civil com foco no acabamento.`
+`Sou Jaraguaense, tenho 21 anos e trabalho como designer imobiliária. Realizo o tratamento de imagens e estudo de cores em casas já construídas, prédios em construção, sonhos. Sou também vendedora há 07 anos na área da construção civil com foco no acabamento.`
 
 ## Me siga 😊
 
