@@ -11,7 +11,7 @@ Estou em transição de carreira para a área de tecnologia, descobrindo formas 
 Após 6 anos de experiência na área comercial e ter trabalhado em uma empresa voltada ao Software e a Inovação como vendedora, me dedico em migrar minha carreira iniciando pelo HTML, CSS e JavaScript e, posteriormente, focando em desenvolvimento front-end.
 
 ### Hoje 🪄
-`Sou Jaraguaense, tenho 21 anos e trabalho como designer imobiliária. Realizo o tratamento de imagens e estudo de cores em casas já construídas, prédios em construção, sonhos. Sou também vendedora há 07 anos na área da construção civil com foco no acabamento.`
+`Sou Jaraguaense, tenho 21 anos e trabalho como designer imobiliária. Realizo o tratamento de imagens e estudo de cores em casas já construídas, prédios em construção, sonhos. Sou também vendedora há 06 anos na área da construção civil com foco no acabamento.`
 
 ## Me siga 😊
 
