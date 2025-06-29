@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Amanda Braun
+# 👋 Oiê, sou a Amanda
 
-Desenvolvedora Web e entusiasta de tecnologias front-end. Apaixonada por criar interfaces acessíveis, responsivas e cheias de estilo com **HTML5**, **CSS3**, **Bootstrap** e **Font Awesome**.
+Desenvolvedora Web graduanda de Análise e Desenvolvimento de Sistemas, apaixonada por criar interfaces acessíveis, responsivas e cheias de estilo com **HTML5**, **CSS3**, **Bootstrap** e **Font Awesome**.
 
 ---
 
@@ -32,7 +32,6 @@ Desenvolvedora Web e entusiasta de tecnologias front-end. Apaixonada por criar i
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aamandabraun)  
 - ✉️ Email: aamandabraun@gmail.com_
-
----
+  
 
 > “Sempre aprendendo, sempre evoluindo.”
