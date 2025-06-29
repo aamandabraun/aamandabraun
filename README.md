@@ -28,10 +28,4 @@ Desenvolvedora Web graduanda de Análise e Desenvolvimento de Sistemas, apaixona
 
 ---
 
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/aamandabraun)  
-- ✉️ Email: aamandabraun@gmail.com_
-  
-
 > “Sempre aprendendo, sempre evoluindo.”
