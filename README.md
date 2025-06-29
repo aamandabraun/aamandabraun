@@ -1,19 +1,38 @@
+# 👋 Olá, eu sou Amanda Braun
 
-# Oie, eu sou Amanda ✨
-Estou em transição de carreira para a área de tecnologia, descobrindo formas novas de inovação e ainda me encaixando dentre as oportunidades. No momento sou graduanda de Análise e Desenvolvimento de Sistemas. 
+Desenvolvedora Web e entusiasta de tecnologias front-end. Apaixonada por criar interfaces acessíveis, responsivas e cheias de estilo com **HTML5**, **CSS3**, **Bootstrap** e **Font Awesome**.
 
-### Foco nos estudos 🔋
-- Sou formada na faculdade de Comércio Exterior, que coincide com minha área de atuação atual, além da faculdade de ADS que me permite entrar na área que quero ficar
-- Com o CNA Idiomas conquistei inglês avançado
-- Através da Udemy realizado projetos e testes voltados ao Desenvolvimento Web.
+---
 
-### Planejamento e vibrações 🎯
-Após 6 anos de experiência na área comercial e ter trabalhado em uma empresa voltada ao Software e a Inovação como vendedora, me dedico em migrar minha carreira iniciando pelo HTML, CSS e JavaScript e, posteriormente, focando em desenvolvimento front-end.
+## 🚀 Tecnologias que uso
 
-### Hoje 🪄
-`Sou Jaraguaense, tenho 21 anos e trabalho como designer imobiliária. Realizo o tratamento de imagens e estudo de cores em casas já construídas, prédios em construção, sonhos. Sou também vendedora há 06 anos na área da construção civil com foco no acabamento.`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Me siga 😊
+---
 
-| [![Li](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aamandabraun/) | [![Li](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/aamandabraun/) |
-| ------- |----- |
+## 🔍 Principais projetos
+
+- 🎵 **Spotify Clone**: site responsivo com HTML5, CSS3 e Bootstrap.
+- 🌐 **TecBlog**: blog de novidades do mundo tech com fixação de conteúdos CSS3
+- ✨ Outros projetos ainda em desenvolvimento – confira em “Pinned” no meu perfil 👆
+
+---
+
+## 📈 Estats no GitHub
+
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamandabraun&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aamandabraun)  
+- ✉️ Email: aamandabraun@gmail.com_
+
+---
+
+> “Sempre aprendendo, sempre evoluindo.”
