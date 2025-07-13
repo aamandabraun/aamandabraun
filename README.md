@@ -17,7 +17,7 @@ Sou graduanda de Análise e Desenvolvimento de Sistemas, entusiasta por Desenvol
 
 - 🎵 **Spotify Clone**: site responsivo com HTML5, CSS3 e Bootstrap.
 - 🌐 **TecBlog**: blog de novidades do mundo tech com fixação de conteúdos CSS3
-- ✨ Outros projetos ainda em desenvolvimento – confira em “Pinned” no meu perfil 👆
+- ✨ Outros projetos ainda em desenvolvimento – confira nos fixados
 
 ---
 
