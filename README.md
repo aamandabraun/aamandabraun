@@ -12,10 +12,10 @@
 
 #
 
-<table align="center" border="0">
+<table border="0">
   <tr>
     <td valign="top" width="50%">
-      <h3 align="left">Connect with me!</h3>
+      <h3 align="left">Connect with me</h3>
       <div align="left">
         <a href="mailto:aamandabraun@gmail.com">
           <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="Email">
@@ -38,7 +38,7 @@
       </div>
     </td>
     <td align="right" valign="top">
-      <img src="./study.gif" width="380" alt="Lofi Study Animation">
+      <img src="./study.gif" width="400" alt="Lofi Study Animation">
     </td>
   </tr>
 </table>
