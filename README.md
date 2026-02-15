@@ -42,6 +42,14 @@
 
 #
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aamandabraun/aamandabraun/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aamandabraun/aamandabraun/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aamandabraun/aamandabraun/output/github-contribution-grid-snake.svg">
+</picture>
+
+#
+
 <div align="center">
   <h3>GitHub Stats</h3>
   
@@ -50,10 +58,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aamandabraun&layout=compact&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&bar_color=8b5cf6" alt="Most Used Languages" height="150" />
 </div>
 
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aamandabraun/aamandabraun/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aamandabraun/aamandabraun/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aamandabraun/aamandabraun/output/github-contribution-grid-snake.svg">
-</picture>
