@@ -38,8 +38,8 @@
   <img width="8" />
 
   <td align="right" valign="top">
-       <img src="./src/study.gif" width="350" alt="Lofi Study Animation">
-    </td>
+    <img src="./study.gif" width="380" alt="Lofi Study Animation">
+  </td>
 
 #
 
