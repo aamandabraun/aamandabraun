@@ -15,14 +15,17 @@
 
 <h3 align="left">Connect with me</h3>
 
+<a href="https://aamandabraun.dev/">
+  <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=FF00F6&labelColor=000&color=000" alt="Portfólio">
+</a>
 <a href="mailto:aamandabraun@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="Email">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&labelColor=000&color=000" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/aamandabraun/">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&labelColor=000&color=000" alt="LinkedIn">
 </a>
 <a href="https://www.instagram.com/aamandabraun/">
-  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&labelColor=000&color=000" alt="Instagram">
 </a>
 
 <br><br>
