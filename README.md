@@ -7,7 +7,7 @@
 
 #
 
-<p align="center">Sou Amanda, formada em Comércio Exterior e formanda em Análise e Desenvolvimento de Sistemas, com estudos paralelos focados em desenvolvimento fullstack. Tenho construído uma base consistente em Estrutura de Dados, Programação Orientada a Objetos e desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end. 
+<p align="center">Sou Amanda, formada em Comércio Exterior e formanda em Análise e Desenvolvimento de Sistemas. Desenvolvo projetos que cobrem desde lógica de programação a estrutura de dados em C, POO em Java, APIs Node.js em produção e até interfaces em React + TypeScript.
 
 #
 
@@ -31,6 +31,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="35"/>
   <img src="https://skillicons.dev/icons?i=c" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
