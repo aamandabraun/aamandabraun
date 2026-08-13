@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&width=524&lines=Fullstack+Developer+%7C+ADS+Student" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&width=524&lines=Fullstack+Developer" />
 </div>
-
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
@@ -54,12 +53,3 @@
 </picture>
 
 #
-
-<div align="center">
-  <h3>GitHub Stats</h3>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aamandabraun&show_icons=true&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&include_all_commits=true&count_private=true" alt="GitHub stats" height="150" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aamandabraun&layout=compact&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&bar_color=8b5cf6" alt="Most Used Languages" height="150" />
-</div>
-
